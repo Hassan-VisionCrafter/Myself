@@ -1,96 +1,97 @@
-# 👋 Hi there, I'm Hassan!
+# 👋 Hello, I'm Hassan!
 
-🎓 I have a Bachelor's degree in **Computer Science**, with a strong focus on:
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Deep Learning (DL)
-- Data Science & Analytics
-- Computer Vision (CV)
-- Natural Language Processing (NLP)
-
----
-
-## 🧠 About Me
-
-I am a passionate learner and developer, constantly working on real-world projects that involve intelligent systems. My core interests lie in:
-
-- Building smart applications using AI/ML models
-- Analyzing data to extract meaningful insights
-- Designing and training deep neural networks
-- Solving computer vision problems such as object detection, face recognition, and video analysis
-- Deploying ML models into production
+🎓 I'm a Computer Science graduate with deep specialization in:
+- 🤖 Artificial Intelligence (AI)
+- 🧠 Machine Learning (ML)
+- 🧬 Deep Learning (DL)
+- 📊 Data Science & Analytics
+- 👁️ Computer Vision (CV)
+- 🗣️ Natural Language Processing (NLP)
 
 ---
 
-## 🛠️ Technologies & Tools I Work With
+## 🧠 Who Am I?
 
-### Programming Languages
-- Python 🐍
-- JavaScript (for web dashboards)
-- C/C++
+I’m a passionate AI developer and researcher who loves turning complex problems into scalable, intelligent solutions. I constantly explore cutting-edge technologies to build practical applications in:
 
-### AI & Machine Learning
-- **Scikit-learn**, **XGBoost**
-- **TensorFlow**, **Keras**
-- **PyTorch**
-
-### Data Science & Analytics
-- **Pandas**, **NumPy**
-- **Matplotlib**, **Seaborn**, **Plotly**
-- **Jupyter Notebooks**, **Google Colab**
-
-### Deep Learning Projects
-- CNNs (Image classification, Object detection)
-- RNNs & LSTMs (Time series, NLP)
-- Autoencoders (Anomaly detection)
-- Transfer Learning (ResNet, MobileNet, EfficientNet, VGG)
-
-### Computer Vision
-- **OpenCV**, **Mediapipe**, **Dlib**
-- Face Recognition systems
-- Real-time object detection using YOLO / SSD
-- Image augmentation & preprocessing
-
-### NLP
-- Text classification (spam detection, sentiment analysis)
-- Chatbot development
-- Transformer models (BERT, GPT)
-
-### Deployment
-- Flask APIs for ML model serving
-- Streamlit dashboards
-- Model saving using Pickle / Joblib
-- Git & GitHub for version control
+- ✅ AI-driven automation & smart systems
+- 📈 Data-driven insights & predictive modeling
+- 🧠 Deep neural network design, optimization, and tuning
+- 🧍‍♂️ Real-time face & object detection in videos
+- 🚀 End-to-end ML model deployment
 
 ---
 
-## 📂 Highlight Projects
+## 🧰 Tech Stack & Toolset
 
-| Project Title                                | Tech Used                               | Description |
-|---------------------------------------------|------------------------------------------|-------------|
-| 🔴 Unauthorized Person Detection             | Python, OpenCV, CNN                      | Real-time detection of unauthorized faces in CCTV footage |
-| 📊 Predictive Sales Forecasting              | Scikit-learn, XGBoost, Pandas            | Regression-based sales prediction using real-world dataset |
-| 🧠 Brain Tumor Detection (MRI)               | TensorFlow, Keras, CNN                   | Deep learning model to classify brain tumors in MRI images |
-| 🗣️ Sentiment Analysis (Twitter/NLP)          | NLP, BERT, HuggingFace Transformers      | Sentiment prediction of tweets using pre-trained models |
-| 👁️ Face Recognition Attendance System       | OpenCV, FaceNet + SVM                    | Automated attendance system using facial embeddings |
+### 👨‍💻 Languages
+- Python (primary)
+- C/C++ (core)
+- JavaScript (web logic)
+
+### 🔬 Machine Learning & AI
+- Scikit-learn, XGBoost, LightGBM
+- TensorFlow, Keras, PyTorch
+- Google Colab, Jupyter
+
+### 📊 Data Science & Analysis
+- Pandas, NumPy
+- Seaborn, Matplotlib, Plotly
+- Exploratory Data Analysis (EDA)
+
+### 🧠 Deep Learning
+- CNNs for classification & detection
+- RNNs / LSTMs for sequence data
+- Transfer Learning: ResNet, VGG, EfficientNet, MobileNet
+- Autoencoders, Siamese Networks
+
+### 🎥 Computer Vision
+- OpenCV, Dlib, Mediapipe
+- YOLOv5/YOLOv8, SSD
+- Image preprocessing, augmentation, face alignment
+
+### 🧾 Natural Language Processing (NLP)
+- Transformers (BERT, GPT), HuggingFace
+- Tokenization, Text Classification, NER
+- Chatbot frameworks
+
+### 🌐 Deployment & Production
+- Flask, Streamlit APIs
+- Pickle, Joblib (model serialization)
+- Git & GitHub CI/CD
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
+
+| 📌 Project Title                          | Tech Stack                             | Description |
+|------------------------------------------|----------------------------------------|-------------|
+| 🔴 Unauthorized Person Detection         | OpenCV, CNN, Face Recognition          | Real-time surveillance system to flag unauthorized faces using custom-trained CNNs |
+| 📊 Sales Forecasting & Demand Planning   | Scikit-learn, XGBoost, Pandas          | Regression-based prediction pipeline for sales and stock demand |
+| 🧠 Brain Tumor Detection (MRI Scan)      | TensorFlow, Keras, CNN                 | Medical imaging model to classify and detect brain tumors from MRIs |
+| 🗣️ Twitter Sentiment Analysis (NLP)      | BERT, HuggingFace, TextBlob            | Real-time tweet classification for political & product sentiment |
+| 👁️ Face Recognition Attendance System    | FaceNet, SVM, OpenCV                   | Contactless attendance system using facial embeddings & live detection |
+
+> 👉 Detailed Jupyter notebooks, source code, and trained models available in respective repositories.
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad Hassan&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad Hassan&theme=dracula" width="48%" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📬 Let's Connect
 
-- 📧 Email: visionx996@gmail.com  
-
+- 📧 Email: **visionx996@gmail.com**
+- 💼 LinkedIn: *[Coming Soon](https://www.linkedin.com/in/mhassan-data-scientist)*
+- 🌐 ResearchGate: *[Coming Soon](https://www.researchgate.net/profile/Muhammad-Hassan-409?ev=hdr_xprf)*
 
 ---
 
-> ⚡ *"Building smart systems for smarter futures."*
+> 💡 *"I believe AI isn't just the future — it's already reshaping the present. Let's build something meaningful together."*
 
