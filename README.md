@@ -88,8 +88,8 @@ I’m a passionate AI developer and researcher who loves turning complex problem
 ## 📬 Let's Connect
 
 - 📧 Email: **visionx996@gmail.com**
-- 💼 LinkedIn: *[Coming Soon](https://www.linkedin.com/in/mhassan-data-scientist)*
-- 🌐 ResearchGate: *[Coming Soon](https://www.researchgate.net/profile/Muhammad-Hassan-409?ev=hdr_xprf)*
+- 💼 LinkedIn: *[My LinkedIn Profile](https://www.linkedin.com/in/mhassan-data-scientist)*
+- 🌐 ResearchGate: *[My ResearchGate Profile](https://www.researchgate.net/profile/Muhammad-Hassan-409?ev=hdr_xprf)*
 
 ---
 
